@@ -1,11 +1,11 @@
 """
-RadDetect AI — Geant4 & Allpix² MCP Server
+RadDetect AI — Geant4 & Allpix^2 MCP Server
 ============================================
 A professional MCP server for radiation detector Monte Carlo simulation,
 built by Rad Detect AI (rad-ai.org).
 
 Integrates with Claude Desktop / Claude Code via the Model Context Protocol
-to let users design, configure, run, and analyze Geant4 and Allpix² simulations
+to let users design, configure, run, and analyze Geant4 and Allpix^2 simulations
 through natural language.
 
 Author: Elmaddin Guliyev / Rad Detect AI
